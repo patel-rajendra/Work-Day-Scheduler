@@ -17,6 +17,7 @@ This is a simple calendar application that allows a user to save events for each
 
 The following image demonstrates the application functionality:
 
+![Workday](https://user-images.githubusercontent.com/99554262/160319394-2d0d679c-887e-4c4b-a6c5-6af25104a5df.jpg)
 
 # References:
-https://patel-rajendra.github.io/Password-Generator/
+https://patel-rajendra.github.io/Work-Day-Scheduler/
